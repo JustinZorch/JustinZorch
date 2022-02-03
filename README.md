@@ -1,12 +1,14 @@
-### Hi there, I'm Justin Louckx 👋
+### Welcome to my hub, I'm Justin Louckx 👋
 __________________________________
 
-I studied BSC Mechanical Engineering and worked as a Derivatives trader from 2012-2019. I am transitioning into Software Engineering. I am self studying via Udemy and Youtube. I’m very excited for Web3 and DeFi in particular and learning Solidity amongst others. 
+I studied BSC Mechanical Engineering and worked as a Derivatives trader from 2012-2019. I am transitioning into Software Engineering. I am self studying via Udemy, Youtube, documentations and the internet. I’m very excited and intrested in Web3 technolody and DeFi in particular. 
 ___________________________________________________________________________________________________________________________________________________________________________________
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ....
 -  Unit Testing and Test Driven Development in Python
 - SQL, mySql
 - Solidity
+__________________________________
+
 
 
 <!--
