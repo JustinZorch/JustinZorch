@@ -7,9 +7,6 @@ ________________________________________________________________________________
 -  Unit Testing and Test Driven Development in Python
 - SQL, mySql
 - Solidity
-__________________________________
-- 📫 How to reach me: ...
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinZorch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
