@@ -1,18 +1,22 @@
 ### Welcome to my hub, I'm Justin Louckx 👋
 __________________________________
 
-I studied BSC Mechanical Engineering and worked as a Derivatives trader from 2012-2019. I am transitioning into Software Engineering. I am self studying via Udemy, Youtube, documentations and the internet. I’m very excited and intrested in Web3 technolody and DeFi in particular. 
-___________________________________________________________________________________________________________________________________________________________________________________
+I studied BSC Mechanical Engineering and worked as a Derivatives trader from 2012-2019. I am transitioning into Software Engineering. I am self studying and passionate about learning as much as I can. I’m very excited and intrested in Web3 technolody and DeFi in particular. 
+______________________
+
 - 🌱 I’m currently learning ....
 -  Unit Testing and Test Driven Development in Python
 - SQL, mySql
 - Solidity
+__________________________________
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinZorch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+See you in the workforce soon 😄
 
 
 <!--
 **JustinZorch/JustinZorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustinZorch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 Here are some ideas to get you started:
 
