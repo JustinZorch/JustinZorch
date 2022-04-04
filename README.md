@@ -5,8 +5,8 @@ I studied BSC Mechanical Engineering and worked as a Derivatives trader from 201
 ______________________
 
 - 🌱 I’m currently learning ....
--  Unit Testing and Test Driven Development in Python
-- SQL, mySql
+- React.js and Next.js
+- Unity (C#)
 - Solidity
 __________________________________
 
